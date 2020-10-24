@@ -1,16 +1,14 @@
 ### Hi there 👋
+[![telegram badge](https://img.shields.io/badge/rohithaditya-30302f?style=flat&logo=telegram)](https://t.me/rohithaditya)
 
-<!--
-**rohithaditya/rohithaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rohithaditya/)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying
+- 🌱 I’m currently learning python 
+- 👯 I’m looking to collaborate on Project
+- 🤔 I’m looking for help with Open Source
+- 💬 Ask me about anything
+- 📫 How to reach me: Telegram - [@rohithaditya](https://t.me/rohithaditya)
+- ⚡ fact: I am Not A Pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rohithaditya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
